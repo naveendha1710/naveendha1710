@@ -51,14 +51,6 @@ naveen = {
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/naveendha1710/naveendha1710/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
-<details>
-<summary>⚙️ <b>Click to set up the snake animation</b></summary>
-<br/>
-
-Create the file `.github/workflows/snake.yml` in your profile repo with the contents from `snake.yml` (included in this package). Then go to **Actions → Generate Snake Animation → Run workflow**. It auto-runs daily after that.
-
-</details>
-
 ---
 
 ## 🛠️ Tech Stack
