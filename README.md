@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&random=false&width=720&lines=Building+agentic+AI+in+production+%F0%9F%A4%96;Shipped+to+prod+before+Year+1+ended+%F0%9F%9A%80;BNB+Chain+Hackathon+Finalist+%F0%9F%8F%86;33%2C000%2B+assets+tracked.+Still+counting.;When+in+doubt%2C+just+vibe+code+it+%F0%9F%8E%AE;Open+to+AI%2FML+%26+SWE+roles+%E2%86%92+Let%27s+talk!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&random=false&width=720&lines=Building+agentic+AI+in+production+%F0%9F%A4%96;Shipped+to+prod+before+Year+1+ended+%F0%9F%9A%80;BNB+Chain+Hackathon+Finalist+%F0%9F%8F%86;50%2C000%2B+assets+tracked.+Still+counting.;When+in+doubt%2C+just+vibe+code+it+%F0%9F%8E%AE;Open+to+AI%2FML+%26+SWE+roles+%E2%86%92+Let%27s+talk!" alt="Typing SVG"/>
 </p>
 
 <p align="center">
